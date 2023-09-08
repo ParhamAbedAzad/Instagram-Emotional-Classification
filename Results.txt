@@ -1,0 +1,47 @@
+MultinomialNB accuracy percent: 0.917
+LogisticRegression_classifier accuracy percent: 98.49624060150376
+NuSVC_classifier accuracy percent: 93.23308270676691
+voted_classifier accuracy percent: 97.74436090225564
+MultinomialNB accuracy percent: 0.917
+LogisticRegression_classifier accuracy percent: 100.0
+NuSVC_classifier accuracy percent: 90.97222222222221
+voted_classifier accuracy percent: 100.0
+MultinomialNB accuracy percent: 0.846
+LogisticRegression_classifier accuracy percent: 99.37304075235109
+NuSVC_classifier accuracy percent: 92.47648902821317
+voted_classifier accuracy percent: 98.7460815047022
+MultinomialNB accuracy percent: 0.688
+LogisticRegression_classifier accuracy percent: 100.0
+NuSVC_classifier accuracy percent: 100.0
+voted_classifier accuracy percent: 100.0
+MultinomialNB accuracy percent: 0.901
+LogisticRegression_classifier accuracy percent: 99.0487514863258
+NuSVC_classifier accuracy percent: 85.25564803804994
+voted_classifier accuracy percent: 97.97859690844233
+MultinomialNB accuracy percent: 0.829
+LogisticRegression_classifier accuracy percent: 99.42028985507247
+NuSVC_classifier accuracy percent: 93.6231884057971
+voted_classifier accuracy percent: 98.84057971014492
+MultinomialNB accuracy percent: 0.881
+LogisticRegression_classifier accuracy percent: 98.50746268656717
+NuSVC_classifier accuracy percent: 97.01492537313433
+voted_classifier accuracy percent: 98.50746268656717
+MultinomialNB accuracy percent: 0.844
+LogisticRegression_classifier accuracy percent: 100.0
+NuSVC_classifier accuracy percent: 91.83673469387756
+voted_classifier accuracy percent: 96.5986394557823
+[(0.9701492537313433, 0.9848484848484849), (1.0, 1.0), (0.9878048780487805, 0.9878048780487805), (1.0, 1.0), (0.9594272076372315, 1.0), (0.9939393939393939, 0.9820359281437125), (0.96875, 1.0), (0.9342105263157895, 1.0)]
+
+
+acc 	per 	rec
+97.744  0.970	0.984               
+100.00	1.0 	1.0	
+98.746  0.987	0.987              
+100.0   1.0 	1.0               
+97.971  0.959   1.0)             
+98.840  0.993   0.982             
+98.507  0.968   1.0             
+96.598  0.934   1.0        
+                  
+                  
+                  

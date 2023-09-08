@@ -1,0 +1,3 @@
+instagram-scraper @insta_args.txt azarijahromi -m 1 --filter گزارش_به_مردم
+instagram-scraper @insta_args.txt hrouhani -m 1 --filter تبریز2018
+instagram-scraper @insta_args.txt negin_abedzade -m 4
