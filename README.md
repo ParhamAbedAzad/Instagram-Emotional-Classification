@@ -1,5 +1,6 @@
 # Instagram-Emotional-Classification
 Sentiment analysis has been a very important part of Natural language processing for the past decade, Although standard sentiment analysis is usually just between positive and negative, this project is intended to take this analysis one step further, and instead of extracting a yes or no, extract the exact emotions embedded in each text, and map each comment to a specific human emotion.
+Moreover, we created a dataset of individual posts which you can use by cloning the project.
 To achieve this goal, we first classify human emotions and divide them into a number of separate classes; the presence or absence of these emotions will be the optimal output of this system. Now the comments are taken from Instagram API and stored in a file, Then by designing a lexical system, we label some of these comments with different emotional classes according to their words.
 ![image](https://github.com/ParhamAbedAzad/Instagram-Emotional-Classification/assets/48606670/eba469cd-83b1-431c-8b53-5cb47a119a7f)
 
