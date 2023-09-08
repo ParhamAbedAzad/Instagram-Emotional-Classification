@@ -11,7 +11,7 @@ Consequently, with the help of machine learning algorithms, we can train a gener
 Thereafter, we will feed all of the comments of each post to the model and calculate the average of the outputs for each emotion. Hence, the resultant values can represent the number of emotions toward the posts, concluding the emotions surrounding individuals, companies, or even hashtags on Instagram. The results are visible in the figure below.
 ![image](https://github.com/ParhamAbedAzad/Instagram-Emotional-Classification/assets/48606670/9106b264-22b1-423e-98d7-1d46953b76a7)
 
-At the end, we will run this model on two different persons. First of which, is an Instagram influencer which everyone loves. On the other hand, a political figure is in an unfavorable situation due to the COVID-19 pandemic and extreme economic challenges.
+At the end, we will run this model on two different persons. First of which, is an Instagram influencer which everyone loves. On the other hand the second person, a political figure who is in an unfavorable situation due to the COVID-19 pandemic and extreme economic challenges.
 
 The final results align with our expectations as we can see in the figure below 
 ![image](https://github.com/ParhamAbedAzad/Instagram-Emotional-Classification/assets/48606670/2fa68ab8-ff60-46a4-a6ac-177f2e1e185b)
